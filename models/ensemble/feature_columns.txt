@@ -1,0 +1,1 @@
+Open\nHigh\nLow\nClose\nVolume\nDividends\nStock Splits\nSMA_20\nSMA_50\nEMA_12\nEMA_26\nRSI_14\nPrice_Change\nPrice_Change_4h\nVolatility_20\nHour\nDayOfWeek
