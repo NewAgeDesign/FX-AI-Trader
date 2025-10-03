@@ -1,0 +1,33 @@
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning / AI
+tensorflow>=2.13.0
+# torch>=2.0.0  # Alternative to TensorFlow - uncomment if preferred
+scikit-learn>=1.3.0
+gymnasium>=0.29.0  # For reinforcement learning environments
+
+# MetaTrader 5 integration
+MetaTrader5>=5.0.45
+
+# Data handling and analysis
+yfinance>=0.2.18
+alpha-vantage>=2.3.1
+requests>=2.31.0
+
+# Trading and technical analysis
+TA-Lib>=0.4.28  # Technical Analysis Library
+mplfinance>=0.12.0  # Financial data plotting
+
+# Utilities
+python-dotenv>=1.0.0
+loguru>=0.7.0
+tqdm>=4.65.0
+joblib>=1.3.0
+
+# Optional: For advanced neural networks
+# keras>=2.13.0
+# optuna>=3.3.0  # Hyperparameter optimization
